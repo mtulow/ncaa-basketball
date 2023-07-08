@@ -38,7 +38,7 @@ __Project Technologies:__
   - Choice: Azure Synapse Analytics
 - [ ] Data Analysis & Exploration: SQL
   - Azure Databricks, Azure HDInsight and Azure Synapse Analytics
-- Data Transformation:
+- [ ] Data Transformation:
   - Options: ...
   - Choice: ...
 
