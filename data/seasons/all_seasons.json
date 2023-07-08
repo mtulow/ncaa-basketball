@@ -1,0 +1,359 @@
+{
+    "league": {
+        "id": "cd4268ee-07aa-4c4d-a435-ec44ad2c76cb",
+        "name": "NCAA MEN",
+        "alias": "NCAAM"
+    },
+    "seasons": [{
+        "id": "accb4f69-1a19-4c03-b584-41fbad89c41a",
+        "year": 2012,
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "c2883ac6-e444-4fb3-bb60-04413eb85e38",
+        "year": 2012,
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "6e7bdae9-81d2-4bcf-b811-6deec79960e3",
+        "year": 2012,
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "203f9d87-c0ed-46fa-ac8e-1b83ea4f3ad8",
+        "year": 2013,
+        "start_date": "2014-03-17",
+        "end_date": "2014-04-07",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "51b2e714-31c8-419b-99fb-6e4602ba2391",
+        "year": 2013,
+        "start_date": "2013-11-08",
+        "end_date": "2014-03-11",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "64894c64-5114-4cf4-bb7f-b184ff96fc56",
+        "year": 2013,
+        "start_date": "2014-03-03",
+        "end_date": "2014-03-16",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "60f098ca-50f6-4372-8248-b57f07445f9c",
+        "year": 2014,
+        "start_date": "2015-03-16",
+        "end_date": "2015-04-06",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "d23f0f9c-8ba3-42d9-a181-60c27295b454",
+        "year": 2014,
+        "start_date": "2014-11-14",
+        "end_date": "2015-03-14",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "ea723f0e-e817-42c1-a6b8-33f7f65ec508",
+        "year": 2014,
+        "start_date": "2015-03-03",
+        "end_date": "2015-03-15",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "ec595500-3589-43ea-8abd-fb082088667f",
+        "year": 2015,
+        "start_date": "2016-03-14",
+        "end_date": "2016-04-04",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "228b0da4-91e5-463f-827c-bfccc1a41f9b",
+        "year": 2015,
+        "start_date": "2015-11-13",
+        "end_date": "2016-03-08",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "93c2ff32-c36d-4230-9317-87d409993844",
+        "year": 2015,
+        "start_date": "2016-03-01",
+        "end_date": "2016-03-13",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "4ab5ee4e-44ae-4431-9110-5bd6f1799d89",
+        "year": 2016,
+        "start_date": "2017-03-13",
+        "end_date": "2017-04-03",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "a627bb7b-f311-455d-91a8-00a53093c2ac",
+        "year": 2016,
+        "start_date": "2016-11-11",
+        "end_date": "2017-03-05",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "9287a8e2-cc52-4cd7-9dfc-7ecce2efa5b2",
+        "year": 2016,
+        "start_date": "2017-02-27",
+        "end_date": "2017-03-12",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "2c3a1230-79c9-434b-b5c7-d84c62d63c58",
+        "year": 2017,
+        "start_date": "2018-03-12",
+        "end_date": "2018-04-02",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "8a0e25c0-4e7b-4c26-84db-39701582087a",
+        "year": 2017,
+        "start_date": "2017-11-10",
+        "end_date": "2018-03-04",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "d76c3cb6-ae46-4bcc-8a2d-ae9a8a11ca0a",
+        "year": 2017,
+        "start_date": "2018-02-26",
+        "end_date": "2018-03-11",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "c10c84fa-777a-4263-91fe-b42e64ee2180",
+        "year": 2018,
+        "start_date": "2019-03-18",
+        "end_date": "2019-04-08",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "6c78669c-a47f-41b8-8715-5482db4d8a45",
+        "year": 2018,
+        "start_date": "2018-11-06",
+        "end_date": "2019-03-10",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "c73f2912-7db8-417c-b451-5f64ffce5bb0",
+        "year": 2018,
+        "start_date": "2019-03-04",
+        "end_date": "2019-03-17",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "d6638397-3d8d-46c9-b85e-418e5bd7f8d8",
+        "year": 2019,
+        "start_date": "2020-03-16",
+        "end_date": "2020-04-06",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "13a424ea-359d-4276-bcf6-8b969ccc83d8",
+        "year": 2019,
+        "start_date": "2019-11-05",
+        "end_date": "2020-03-08",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "ef62d67a-59d8-4696-9947-c3bed06684eb",
+        "year": 2019,
+        "start_date": "2020-02-29",
+        "end_date": "2020-03-15",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "5a7542d2-1c3a-41fa-b7ab-11550a79043f",
+        "year": 2020,
+        "start_date": "2021-03-17",
+        "end_date": "2021-04-05",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "55324e4c-294d-4dce-b946-c3cf17c6e5ff",
+        "year": 2020,
+        "start_date": "2020-11-25",
+        "end_date": "2021-03-07",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "dd5f915f-1548-41d0-9f03-042b76e20e82",
+        "year": 2020,
+        "start_date": "2021-02-25",
+        "end_date": "2021-03-14",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "e5531941-d879-4429-8319-6d68cb7a3325",
+        "year": 2021,
+        "start_date": "2022-03-15",
+        "end_date": "2022-04-04",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "ac9e4c41-9cab-4a6d-b4c3-149d9eabdd9b",
+        "year": 2021,
+        "start_date": "2021-11-09",
+        "end_date": "2022-03-06",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "8864342b-dd7b-4b43-9161-6d3e30137754",
+        "year": 2021,
+        "start_date": "2022-02-28",
+        "end_date": "2022-03-13",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "577ccb33-2728-44a8-b083-80fafcaf2ee5",
+        "year": 2022,
+        "start_date": "2023-03-14",
+        "end_date": "2023-04-03",
+        "status": "closed",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "415ae0cb-38dd-4ace-8f22-fb6015b39006",
+        "year": 2022,
+        "start_date": "2022-11-07",
+        "end_date": "2023-03-05",
+        "status": "closed",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "48242e97-fb55-469d-9fd7-a4f8c7a67aea",
+        "year": 2022,
+        "start_date": "2023-02-27",
+        "end_date": "2023-03-12",
+        "status": "closed",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }, {
+        "id": "3dcf4c11-e7f8-4996-a34d-49069d14d465",
+        "year": 2023,
+        "start_date": "2024-03-19",
+        "end_date": "2024-04-08",
+        "status": "scheduled",
+        "type": {
+            "code": "PST",
+            "name": "Post-season Tournaments"
+        }
+    }, {
+        "id": "05b9e2ec-8916-432f-8a56-6579eb825dd0",
+        "year": 2023,
+        "start_date": "2023-11-06",
+        "end_date": "2024-03-10",
+        "status": "scheduled",
+        "type": {
+            "code": "REG",
+            "name": "Regular Season"
+        }
+    }, {
+        "id": "7aa53f56-bde6-441f-966b-161ecd993de5",
+        "year": 2023,
+        "start_date": "2024-03-04",
+        "end_date": "2024-03-17",
+        "status": "scheduled",
+        "type": {
+            "code": "CT",
+            "name": "Conference Tournaments"
+        }
+    }]
+}
